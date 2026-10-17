@@ -40,15 +40,16 @@ This project explores these challenges through data analysis and visualization.
 ```text
 Supply-Chain-Analytics/
 ├── data/
+│   └── DataCoSupplyChainDataset.csv
+│   └── DescriptionDataCoSupplyChain.csv
 │   └── README.md
+├── images/
 ├── notebooks/
 │   ├── SupplyChainAnalytics.ipynb
 ├── powerbi/
 │   └── README.md
-├── outputs/
-├── images/
+│   └── SupplyChainAnalysis.pbix
 ├── Supply_Chain_Analytics_MDD.pdf
-├── requirements.txt
 └── README.md
 ```
 
@@ -72,9 +73,9 @@ The report is planned around the following pages:
  **Executive Overview:**
 ![Executive Dashboard](images/Overview.png)
 **Sales & Profitability:**
-![Executive Dashboard](images/Sales&Profitability.png)
+![Sales Dashboard](images/Sales&Profitability.png)
 **Delivery & Logistics:**
-![Executive Dashboard](images/Delivery&Logistic.png)
+![Delivery Dashboard](images/Delivery&Logistic.png)
 
 ## Key Performance Indicators (KPIs)
 Potential KPIs include:
