@@ -52,8 +52,6 @@ Supply-Chain-Analytics/
 └── README.md
 ```
 
-*Note: The structure above is the planned organization. Update it to match the files actually committed to the repository.*
-
 ## Key Business Questions
 - How do sales and profit change over time?
 - Which products and categories generate the highest sales and profit?
@@ -70,6 +68,13 @@ The report is planned around the following pages:
 2. **Sales & Profitability:** Sales trends, profit analysis, product categories, and discount impact.
 3. **Delivery & Logistics:** Late deliveries, scheduled versus actual shipping time, and shipping performance.
 
+## Dashboard Images
+ **Executive Overview:**
+![Executive Dashboard](images/Overview.png)
+**Sales & Profitability:**
+![Executive Dashboard](images/Sales&Profitability.png)
+**Delivery & Logistics:**
+![Executive Dashboard](images/Delivery&Logistic.png)
 
 ## Key Performance Indicators (KPIs)
 Potential KPIs include:
